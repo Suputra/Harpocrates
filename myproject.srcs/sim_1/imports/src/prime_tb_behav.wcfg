@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="prime_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="prime_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="233.687 ns"></ZoomStartTime>
+      <ZoomEndTime time="1,153.263 ns"></ZoomEndTime>
+      <Cursor1Time time="1,000.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="312"></NameColumnWidth>
+      <ValueColumnWidth column_width="133"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="10" />
+   <wvobject fp_name="/prime_tb/accuracy" type="array">
+      <obj_property name="ElementShortName">accuracy[2047:0]</obj_property>
+      <obj_property name="ObjectShortName">accuracy[2047:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/prime_tb/potential_prime" type="array">
+      <obj_property name="ElementShortName">potential_prime[1023:0]</obj_property>
+      <obj_property name="ObjectShortName">potential_prime[1023:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/prime_tb/prime_reset" type="logic">
+      <obj_property name="ElementShortName">prime_reset</obj_property>
+      <obj_property name="ObjectShortName">prime_reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/prime_tb/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/prime_tb/rand_reset" type="logic">
+      <obj_property name="ElementShortName">rand_reset</obj_property>
+      <obj_property name="ObjectShortName">rand_reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/prime_tb/finish" type="logic">
+      <obj_property name="ElementShortName">finish</obj_property>
+      <obj_property name="ObjectShortName">finish</obj_property>
+   </wvobject>
+   <wvobject fp_name="/prime_tb/prime" type="logic">
+      <obj_property name="ElementShortName">prime</obj_property>
+      <obj_property name="ObjectShortName">prime</obj_property>
+   </wvobject>
+   <wvobject fp_name="/prime_tb/rand_count_top" type="array">
+      <obj_property name="ElementShortName">rand_count_top[31:0]</obj_property>
+      <obj_property name="ObjectShortName">rand_count_top[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/prime_tb/seed_in" type="array">
+      <obj_property name="ElementShortName">seed_in[126:0]</obj_property>
+      <obj_property name="ObjectShortName">seed_in[126:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/prime_tb/rand_out" type="array">
+      <obj_property name="ElementShortName">rand_out[15:0]</obj_property>
+      <obj_property name="ObjectShortName">rand_out[15:0]</obj_property>
+   </wvobject>
+</wave_config>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.9.6" xml:lang="en-US">
+  <compound refid="helloworld_8c" kind="file"><name>helloworld.c</name>
+    <member refid="helloworld_8c_1ad9f240c8cda77e7b72331c8fdb3389c7" kind="define"><name>XADC_DEVICE_ID</name></member>
+    <member refid="helloworld_8c_1a3cb9f0894fab1c8fbb0753c9c7c2a8d9" kind="define"><name>printf</name></member>
+    <member refid="helloworld_8c_1af92697f7c3bf792d2982ed3e44ed5a1e" kind="variable"><name>XAdcInst</name></member>
+    <member refid="helloworld_8c_1a840291bc02cba5474a4cb46a9b9566fe" kind="function"><name>main</name></member>
+  </compound>
+  <compound refid="platform_8c" kind="file"><name>platform.c</name>
+    <member refid="platform_8c_1a7a1d24821c9663bd8a1a9db242458765" kind="function"><name>enable_caches</name></member>
+    <member refid="platform_8c_1a592da31a05d50149a2bc4ebe0fe52470" kind="function"><name>disable_caches</name></member>
+    <member refid="platform_8c_1a7c8ab9435f095e55019fe880192c3537" kind="function"><name>init_uart</name></member>
+    <member refid="platform_8c_1afddcfa5cf23f52259c9da7f926a4af57" kind="function"><name>init_platform</name></member>
+    <member refid="platform_8c_1a074e46b818accd4588b2fdf6dee7ec00" kind="function"><name>cleanup_platform</name></member>
+  </compound>
+  <compound refid="platform_8h" kind="file"><name>platform.h</name>
+    <member refid="platform_8h_1afddcfa5cf23f52259c9da7f926a4af57" kind="function"><name>init_platform</name></member>
+    <member refid="platform_8h_1a074e46b818accd4588b2fdf6dee7ec00" kind="function"><name>cleanup_platform</name></member>
+  </compound>
+  <compound refid="platform__config_8h" kind="file"><name>platform_config.h</name>
+    <member refid="platform__config_8h_1a6ff829e8266025a55a81fd12b9d329a9" kind="define"><name>STDOUT_IS_PS7_UART</name></member>
+    <member refid="platform__config_8h_1a0f4ff52ed3a5a46691f6a4d03988923d" kind="define"><name>UART_DEVICE_ID</name></member>
+  </compound>
+  <compound refid="dir_68267d1309a1af8e8297ef4c3efbcdba" kind="dir"><name>src</name>
+  </compound>
+</doxygenindex>

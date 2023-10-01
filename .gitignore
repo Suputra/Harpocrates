@@ -1,0 +1,9 @@
+.Xil/
+vivado*
+myproject.cache/*
+myproject.runs/*
+myproject.sim/*
+*.log
+*.jou
+
+documentation/build/*
